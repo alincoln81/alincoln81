@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alincoln81 (Amber Lincoln)
+- 👀 I’m interested in Software and Website Development
+- 🌱 I’m currently learning Dart / Flutter
+- 💞️ I’m looking to collaborate on Exciting Projects
+- 📫 How to reach me: amber.lincoln@gmail.com / amber@threefatesdigital.com
